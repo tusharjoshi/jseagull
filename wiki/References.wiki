@@ -1,11 +1,11 @@
 #summary References found for need of this project.
 
-= Links =
+== Links ==
 
-* [http://today.java.net/pub/a/today/2004/05/24/html-pt1.html The HTML Renderer Shootout - Part 1]
-* [http://today.java.net/pub/a/today/2004/06/14/html-pt2.html The HTML Renderer Shootout - Part 2]
+ * [http://today.java.net/pub/a/today/2004/05/24/html-pt1.html The HTML Renderer Shootout - Part 1]
+ * [http://today.java.net/pub/a/today/2004/06/14/html-pt2.html The HTML Renderer Shootout - Part 2]
 
 
-= Supporting Libraries =
+== Supporting Libraries ==
 
-* [http://hc.apache.org/ Apache HTTP Components]
+ * [http://hc.apache.org/ Apache HTTP Components]
