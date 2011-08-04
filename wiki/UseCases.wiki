@@ -1,10 +1,10 @@
 =Business Use Cases=
 
  # Web scrapping
-For this use case we may need logical components for manipulation like page, popup, window available for users to manipulate
+  For this use case we may need logical components for manipulation like page, popup, window available for users to manipulate
  # Report publishing
-HTML document can be printed as PDF documents or just HTML fragments page wise
+  HTML document can be printed as PDF documents or just HTML fragments page wise
  # Web Browsing
-The project may also be made available as a web browser
+  The project may also be made available as a web browser
  # Embeddable Web Component
 To be used as a web component in custom software
