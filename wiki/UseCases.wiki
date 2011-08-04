@@ -7,4 +7,4 @@
  # Web Browsing
   The project may also be made available as a web browser
  # Embeddable Web Component
-To be used as a web component in custom software
+  To be used as a web component in custom software
