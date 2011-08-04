@@ -4,6 +4,11 @@
 
  * [http://today.java.net/pub/a/today/2004/05/24/html-pt1.html The HTML Renderer Shootout - Part 1]
  * [http://today.java.net/pub/a/today/2004/06/14/html-pt2.html The HTML Renderer Shootout - Part 2]
+ * [http://www.whatwg.org/ WHATWG]
+ * [http://www.whatwg.org/specs/web-apps/current-work/multipage/ HTML5 Devel Specification]
+ * [http://today.java.net/pub/a/today/2004/05/24/html-pt1.html HTML Renderer shootout]
+* [http://weblogs.java.net/blog/2009/06/16/jwebpane-bof-screenshots-javaone-2009 JWebPane Promise by SUn]
+ * [http://mindprod.com/jgloss/htmlrendering.html HTML Rendering links]
 
 
 == Supporting Libraries ==
