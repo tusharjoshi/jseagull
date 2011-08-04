@@ -10,6 +10,17 @@
 * [http://weblogs.java.net/blog/2009/06/16/jwebpane-bof-screenshots-javaone-2009 JWebPane Promise by SUn]
  * [http://mindprod.com/jgloss/htmlrendering.html HTML Rendering links]
 
+==Competition==
+
+List of few commercially / open source available tools.
+
+ # http://www.teamdev.com/jxbrowser 
+ # http://www.webrenderer.com/
+ # http://today.java.net/pub/a/today/2004/05/24/html-pt1.html  *
+ # http://lobobrowser.org/cobra.jsp  *
+ # http://www.hexidec.com/ekit.php *
+ # http://htmlrenderer.codeplex.com/ * - developed in .NET 
+
 
 == Supporting Libraries ==
 
