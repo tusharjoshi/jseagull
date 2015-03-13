@@ -1,0 +1,5 @@
+This project aims at creating HTML5 Renderer, Reference HTML5 Browser and HTML5 Rendering components which can be embedded in other applications using pure Java.
+
+The name is inspired by the book "Jonathan Livingston Seagull" by renowned author Richard Bach. The protagonist in that book is a seagull who plans for a significant achievement and achieves it through perseverance. This project takes J from Jonathan in the name jseagull.
+
+In the technology world most of the Java projects tent to use J as the first letter of the project to signify Java as the used technology which also applies to this project as it plans to implement a Java component capable of rendering HTML5 pages just as they are rendered in browsers In other words this project will create a pure java implementation of web component and also become a reference pure java web browser using that component.
